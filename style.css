@@ -14,7 +14,8 @@ body {
   height: 5rem;
   background-color: #2d3e4f;
   position: fixed;
-  top:0
+  top:0;
+  z-index: 10;
 }
 
 .slide-1 {
