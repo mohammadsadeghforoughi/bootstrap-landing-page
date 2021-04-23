@@ -34,7 +34,7 @@ body {
 
 .slide-3{
     background-color: #1abc9b;
-    height: 26rem;
+    min-height: 26rem;
 }
 
 .slide-4{
